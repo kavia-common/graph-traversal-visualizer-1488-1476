@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/graph-traversal-visualizer-1488-1476/graph_traversal_frontend"
+}
